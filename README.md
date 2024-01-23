@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m currently working on biology and phsyics
 <!--
 **cara1296/cara1296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
